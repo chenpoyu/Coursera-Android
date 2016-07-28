@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab3a_IntentsLab/app/build/intermediates/res/merged/debug/layout/activity_loader_activity.xml",
+        "source": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab3a_IntentsLab/app/src/main/res/layout/activity_loader_activity.xml"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab3a_IntentsLab/app/build/intermediates/res/merged/debug/layout/explicitly_loaded_activity.xml",
+        "source": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab3a_IntentsLab/app/src/main/res/layout/explicitly_loaded_activity.xml"
+    }
+]

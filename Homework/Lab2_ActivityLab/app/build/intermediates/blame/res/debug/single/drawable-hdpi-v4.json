@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab2_ActivityLab/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab2_ActivityLab/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/Practice/Lab2_ActivityLab/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/poyuchen/Documents/Practice/Lab2_ActivityLab/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab2_ActivityLab/app/build/intermediates/res/merged/debug/layout/activity_one.xml",
+        "source": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab2_ActivityLab/app/src/main/res/layout/activity_one.xml"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/Practice/Lab2_ActivityLab/app/build/intermediates/res/merged/debug/layout/activity_two.xml",
+        "source": "/Users/poyuchen/Documents/Practice/Lab2_ActivityLab/app/src/main/res/layout/activity_two.xml"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab2_ActivityLab/app/build/intermediates/res/merged/debug/layout/activity_two.xml",
+        "source": "/Users/poyuchen/Documents/Coursera/Android/Homework/Lab2_ActivityLab/app/src/main/res/layout/activity_two.xml"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/Practice/Lab2_ActivityLab/app/build/intermediates/res/merged/debug/layout/activity_one.xml",
+        "source": "/Users/poyuchen/Documents/Practice/Lab2_ActivityLab/app/src/main/res/layout/activity_one.xml"
+    }
+]

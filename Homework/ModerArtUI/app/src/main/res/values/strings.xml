@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moder Art UI</string>
+    <string name="action_MoreInformation">More Information</string>
+    <string name="dialog_positive">Visit MOMA</string>
+    <string name="dialog_negative">Not Now</string>
+    <string name="dialog_declare">Inspired by the works of artists such as \n Piet Modrian and Ben Nicholson.\n\nClick below to learn more!</string>
+</resources>
