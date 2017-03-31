@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/build/intermediates/res/merged/debug/layout/feed.xml",
+        "source": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/src/main/res/layout/feed.xml"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/build/intermediates/res/merged/debug/layout/activity_test_front_end.xml",
+        "source": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/src/main/res/layout/activity_test_front_end.xml"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/build/intermediates/res/merged/debug/layout/custom_notification.xml",
+        "source": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/src/main/res/layout/custom_notification.xml"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab6_NotificationsLab/app/src/main/res/layout/activity_main.xml"
+    }
+]

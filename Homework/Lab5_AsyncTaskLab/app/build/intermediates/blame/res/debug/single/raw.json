@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab5_AsyncTaskLab/app/build/intermediates/res/merged/debug/raw/tswift.txt",
+        "source": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab5_AsyncTaskLab/app/src/main/res/raw/tswift.txt"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab5_AsyncTaskLab/app/build/intermediates/res/merged/debug/raw/rblack.txt",
+        "source": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab5_AsyncTaskLab/app/src/main/res/raw/rblack.txt"
+    },
+    {
+        "merged": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab5_AsyncTaskLab/app/build/intermediates/res/merged/debug/raw/lgaga.txt",
+        "source": "/Users/poyuchen/Documents/github/Coursera-Android/Homework/Lab5_AsyncTaskLab/app/src/main/res/raw/lgaga.txt"
+    }
+]
