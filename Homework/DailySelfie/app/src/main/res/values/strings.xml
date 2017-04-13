@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">DailySelfie</string>
-    <string name="action_settings">Settings</string>
+    <string name="menu_camera_label">Camera</string>
 </resources>
